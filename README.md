@@ -17,7 +17,7 @@
 |---|---|---|
 | **🎣 蓝湾渔镇** | 基于 Babylon.js 的浏览器 3D 钓鱼、建造与探索游戏，支持桌面端和移动端。 | [在线体验](https://singapor876.github.io/blue-cove-game/) · [查看源码](https://github.com/Singapor876/blue-cove-game) |
 | **🧭 Threadscape** | AI 知识探索工具，支持流式对话、工具调用、多层知识树、队列与知识图谱。 | [查看源码](https://github.com/Singapor876/threadscape) |
-| **🛍️ 智能导购助手** | 基于工作流与多智能体架构，包含意图路由、聊天、售后、检索和人工服务。 | [查看源码](https://github.com/Singapor876/sales-assistant-agent) |
+| **☁️ Cloud 微服务商城** | 基于若依 Cloud 二次开发的商城系统，包含认证、网关、商品、订单、会员及前后台界面。 | [查看源码](https://github.com/Singapor876/cloud-shopping-platform) |
 
 ## 🧰 技术方向
 
